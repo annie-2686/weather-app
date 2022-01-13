@@ -65,3 +65,9 @@ input[type="submit"],
   position: relative;
   top: -34px;
 }
+
+p {
+  font-size: 11px;
+  display: block;
+  text-align: left;
+}
